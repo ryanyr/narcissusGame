@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "moveDown",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.21666666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "726f5e54-7c6d-417f-9a83-7ae24efef97f"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "1af0d67f-2262-4a0d-8b11-74a712df9a20"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "2fccf1ef-d937-4b1f-9f00-8af718f079bb"
+            }
+          },
+          {
+            "frame": 0.15,
+            "value": {
+              "__uuid__": "afbbf376-dc55-462d-834c-516285f4473b"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "726f5e54-7c6d-417f-9a83-7ae24efef97f"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
